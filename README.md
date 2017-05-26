@@ -1,6 +1,6 @@
 # max_tsp
 
-This code solve MAX_TSP problem and count precision of algorithm relatively the solution by TSP solver - Concorde
+This code solves the MAX TSP problem and counts precision of algorithm relatively the solution by TSP solver - Concorde
 
 ## How to run:
 1) Run graph_generator.py with settings of your Concorde folder.
